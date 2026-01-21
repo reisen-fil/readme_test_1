@@ -25,5 +25,7 @@ this is
 
 | 111 | 222 |
 | :---: | :---: |
-| content | content11111 |
-| content | content |
+| Motor Control | FOC+SVPWM with PID |
+| Current Sample | Dual resistor Low-side |
+| Angle Sensor | AS5600 Base on I2C |
+| Motor | PMSM with 7 pole pairs |
